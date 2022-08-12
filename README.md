@@ -1,2 +1,2 @@
 # House Price Prediction
-This exercise uses a linear regression model to evaluate features of a house that are most predictive of the final price. A dataset for housing data is cut into train and test where the train will establish the parameters for the linear regression. The $$R^{2}$$ value for the linear plot will be used to assess strength of the prediction. 
+This exercise uses a linear regression model to evaluate features of a house that are most predictive of the final price. A dataset for housing data is cut into train and test where the train will establish the parameters for the linear regression. The R<sup>2</sup> value for the linear plot will be used to assess strength of the prediction. 
